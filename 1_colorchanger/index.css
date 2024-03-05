@@ -8,16 +8,17 @@ html {
   nav{
     display: flex;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 10px;
+    border: 1.5px solid black;
   }
 
   .header{
     height: 20px;
     width:50px;
-    border: 1px solid black;
-    margin: 2px;
+    border: 1.5px solid black;
+    margin: 10px;
     padding: 3px;
-    background-color: rgba(218, 112, 214, 0.274)
+    background-color: none;
   }
   .canvas {
     margin: 100px auto 100px;
@@ -48,3 +49,12 @@ html {
   #purple{
     background-color: purple;
   }
+  #black{
+    background-color: black;
+  }
+#darkcyan{
+  background-color: darkcyan;
+}
+#burlywood{
+  background-color: burlywood;
+}

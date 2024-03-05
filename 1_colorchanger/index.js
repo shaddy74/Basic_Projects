@@ -26,5 +26,14 @@ buttons.forEach(function (button){
         if(e.target.id === 'purple'){
             body.style.backgroundColor= e.target.id
         }
+        if(e.target.id === 'black'){
+            body.style.backgroundColor= e.target.id
+        }
+        if(e.target.id === 'darkcyan'){
+            body.style.backgroundColor= e.target.id
+        }
+        if(e.target.id === 'burlywood'){
+            body.style.backgroundColor= e.target.id
+        }
     })
 })
